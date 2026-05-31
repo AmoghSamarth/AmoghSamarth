@@ -3,7 +3,6 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amogh%20Samarth&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%2FML%20Explorer&descSize=16&descAlignY=58&descColor=a0c4ff)
 
 </div>
-
 ### 💫 About Me
 
 👋 Hii , I'm a 4th year web development student who enjoys turning ideas into clean, functional web experiences. Currently deep in the MERN stack while exploring AI/ML with TensorFlow.js. I care about the details — from how a component feels to how a page breathes.
