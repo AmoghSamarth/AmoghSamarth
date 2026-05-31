@@ -8,7 +8,7 @@ I'm a 4th year web development student passionate about building clean, function
 ## Projects
 
 **VaaniBank AI** — A multilingual AI voice banking assistant. I designed the landing page and built the Customer & Staff Panel frontend using React.js and Tailwind CSS.
-[View Project](https://github.com/SubodhWalondre-1/Vectora-VaaniBank-AI) · [Staff Panel](https://vaanibank-staff.netlify.app) · [Customer Panel](https://vaanibank-customer.netlify.app)
+[View Project](https://github.com/SubodhWalondre-1/Vectora-VaaniBank-AI) · [Landing Page](https://vaanibankai.netlify.app/) · [Staff Panel](https://vaanibank-staff.netlify.app) · [Customer Panel](https://vaanibank-customer.netlify.app)
 
 **MLT Lab Practicals** — An interactive ML lab portal with a 3D carousel UI, covering practicals from Data Preprocessing and Linear Regression to Deep Neural Networks and NLP.
 [View Project](https://github.com/AmoghSamarth/MLTLAB_CM23034) · [Live Site](https://amoghsamarth.github.io/MLTLAB_CM23034/)
