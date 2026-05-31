@@ -6,7 +6,7 @@
 
 ### 💫 About Me
 
-👋 4th year web development student who enjoys turning ideas into clean, functional web experiences. Currently deep in the MERN stack while exploring AI/ML with TensorFlow.js. I care about the details — from how a component feels to how a page breathes.
+👋 Hii , I'm a 4th year web development student who enjoys turning ideas into clean, functional web experiences. Currently deep in the MERN stack while exploring AI/ML with TensorFlow.js. I care about the details — from how a component feels to how a page breathes.
 
 ✏️ Outside of code, I'm learning 2D hand-drawn vector animation — because motion is just another form of design.
 
