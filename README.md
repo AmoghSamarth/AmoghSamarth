@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Amogh Samarth 👋
 
-<!--
-**AmoghSamarth/AmoghSamarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web development student learning the MERN stack and exploring AI/ML with TensorFlow.js. Using GitHub to grow and showcase my portfolio.
 
-Here are some ideas to get you started:
+✏️ Fun fact — I love creating 2D hand-drawn vector animations and I'm currently learning it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+**VaaniBank AI** — A multilingual AI voice banking assistant. I contributed to the frontend (Customer Panel & Staff Panel) using React.js and Tailwind CSS.
+[View Project](https://github.com/SubodhWalondre-1/Vectora-VaaniBank-AI) · [Staff Panel](https://vaanibank-staff.netlify.app) · [Customer Panel](https://vaanibank-customer.netlify.app)
+
+---
+
+## Contact
+
+📧 [samarthamogh@gmail.com](mailto:samarthamogh@gmail.com)
+
+---
+
+*🌱 Learning & building, one commit at a time.*
